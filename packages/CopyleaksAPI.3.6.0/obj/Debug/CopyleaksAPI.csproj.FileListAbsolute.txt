@@ -1,0 +1,15 @@
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\CopyleaksAPI.dll.config
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\CopyleaksAPI.dll
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\CopyleaksAPI.pdb
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\Newtonsoft.Json.dll
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\System.Net.Http.Extensions.dll
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\System.Net.Http.Primitives.dll
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\Newtonsoft.Json.xml
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\System.Net.Http.Extensions.xml
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\bin\Debug\System.Net.Http.Primitives.xml
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\obj\Debug\CopyleaksAPI.csproj.App.config
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\obj\Debug\CopyleaksAPI.csprojAssemblyReference.cache
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\obj\Debug\CopyleaksAPI.csproj.CoreCompileInputs.cache
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\obj\Debug\CopyleaksAPI.csproj.CopyComplete
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\obj\Debug\CopyleaksAPI.dll
+C:\github.com\.NET-Plagiarism-Checker\CopyleaksAPI\obj\Debug\CopyleaksAPI.pdb
